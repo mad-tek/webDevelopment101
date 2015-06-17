@@ -8,11 +8,11 @@
   * [jQuery](https://learn.jquery.com/)
 
 ##Foundation B
-1. FTP / Web Host Setup
-2. Domain
-3. Basic Terminal
-4. SSH
-5. Git / Github
+1. [FTP](https://www.google.com/webhp?hl=en#hl=en&q=how+to+ftp) / [Web Host Setup](https://www.google.com/webhp?hl=en#hl=en&q=web+host)
+2. [Domain](https://www.google.com/webhp?hl=en#hl=en&q=domain)
+3. [Basic Terminal](https://www.google.com/webhp?hl=en#hl=en&q=how+to+terminal)
+4. [SSH](https://www.google.com/webhp?hl=en#hl=en&q=how+to+ssh)
+5. [Git](https://www.google.com/webhp?hl=en#hl=en&q=how+to+git) / [Github](github.com)
 6. Client & Server interaction
 7. RESTful web services (GET POST PUT DELETE) requests
 
@@ -23,26 +23,26 @@
   - Responsive design
 - Front End Build Tools
   - Task Runners
-    1. Grunt
-    2. Gulp
+    1. [Grunt](http://gruntjs.com/)
+    2. [Gulp](http://gulpjs.com/)
   - Dependency Management
-    1. Browserify
-    2. Webpack
-    3. Require.js / AMD
-  - Package management: Bower, NPM
-  - Yeoman.io
+    1. [Browserify](http://browserify.org/)
+    2. [Webpack](http://webpack.github.io/)
+    3. [Require.js](http://requirejs.org/) / AMD
+  - Package management: [Bower](http://bower.io/), [NPM](https://www.npmjs.com/)
+  - [Yeoman.io](http://yeoman.io/)
   - Front-end Performance
 - Javascript Frameworks
-  1. React.js / Flux
-  2. Angular.js
-  3. Backbone.js
-  4. Ember.js
-  5. Mithril
-  6. Reactive
-- Javascript testing
-  1. Mocha
-  2. Jasmine
-  3. Karma
+  1. [React.js](http://facebook.github.io/react/) / [Flux](https://github.com/facebook/flux)
+  2. [Angular.js](https://angularjs.org/)
+  3. [Backbone.js](http://backbonejs.org/)
+  4. [Ember.js](http://emberjs.com/)
+  5. [Mithril](https://lhorie.github.io/mithril/)
+  6. [Reactive](http://www.ractivejs.org/)
+- Javascript testing (test frameworks)
+  1. [Mocha](http://mochajs.org/)
+  2. [Jasmine](http://jasmine.github.io/)
+  3. [Karma](http://karma-runner.github.io/)
 
 ##Back End 1
 - Unit/Functional Testing for Chosen Technology
