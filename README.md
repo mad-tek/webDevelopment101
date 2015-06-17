@@ -1,11 +1,11 @@
 #Web Development 101
-###Road map for Web Development
+<sup>Road map for Web Development</sup>
 
 ##Foundation A
-1. HTML
-2. CSS
-3. Javascript
-  *jQuery
+1. [HTML](https://www.google.com/search?q=how+to+html&ie=utf-8&oe=utf-8#q=learn+html)
+2. [CSS](https://www.google.com/search?q=how+to+html&ie=utf-8&oe=utf-8#q=learn+CSS)
+3. [Javascript](https://www.javascript.com/)
+  * [jQuery](https://learn.jquery.com/)
 
 ##Foundation B
 1. FTP / Web Host Setup
@@ -18,8 +18,8 @@
 
 ##Front End
 - CSS Tools
-  - Pre-processors: SASS / LESS / STYLUS
-  - Frameworks: Bootstrap / Foundation / Bourbon w Neat / Gumby / Skeleton
+  - Pre-processors: [SASS](http://sass-lang.com/) / [LESS](http://lesscss.org/) / [STYLUS](https://learnboost.github.io/stylus/)
+  - Frameworks: [Bootstrap](http://getbootstrap.com/) / [Foundation](http://foundation.zurb.com/) / Bourbon w Neat / Gumby / Skeleton
   - Responsive design
 - Front End Build Tools
   - Task Runners
@@ -77,7 +77,7 @@
   - websocket
 
 ##Back End 2 (Developer Operation)
--Web Platforms
+- Web Platforms
   1. Digital Ocean
   2. Rackspace
   3. Amazon Web Services
@@ -87,21 +87,21 @@
   7. Google App Engine
   8. Nodejitsu
   9. OpenShift
--Server Management (configuration management or CM)
+- Server Management (configuration management or CM)
   1. Salt
   2. Puppet
   3. Chef
   4. Ansible
   5. Linux (OS)
   6. Docker (cloud)
--Dev Ops Workflows
+- Dev Ops Workflows
   - Docker (containerized applications and databases)
     - CoreOS, Mesos (Cloud Computing)
     - Docker-Machine Docker-Swarm Docker-Compose
     - Kubernetes
     - Mesosphere
     - Panamax
-  -Continous Intergration
+  - Continous Intergration
     - Github Hook Deployment
     - Travis Cl / Jenkins
   - Vagrant (local environment development)
